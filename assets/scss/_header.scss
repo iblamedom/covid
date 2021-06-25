@@ -275,9 +275,10 @@
     }
 
     & .main-btn {
-        background: -webkit-linear-gradient(left, rgba(28, 190, 153, 1) 0%, rgba(5, 222, 125, 1) 50%, rgba(28, 190, 153, 1) 100%);
-        background: -o-linear-gradient(left, rgba(28, 190, 153, 1) 0%, rgba(5, 222, 125, 1) 50%, rgba(28, 190, 153, 1) 100%);
-        background: linear-gradient(to right, rgba(28, 190, 153, 1) 0%, rgba(5, 222, 125, 1) 50%, rgba(28, 190, 153, 1) 100%);
+        background: #fc008b;
+              // -webkit-linear-gradient(left, rgba(28, 190, 153, 1) 0%, rgba(5, 222, 125, 1) 50%, rgba(28, 190, 153, 1) 100%);
+       // background: -o-linear-gradient(left, rgba(28, 190, 153, 1) 0%, rgba(5, 222, 125, 1) 50%, rgba(28, 190, 153, 1) 100%);
+     //   background: linear-gradient(to right, rgba(28, 190, 153, 1) 0%, rgba(5, 222, 125, 1) 50%, rgba(28, 190, 153, 1) 100%);
         border: 0;
         height: 45px;
         line-height: 45px;
